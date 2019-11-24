@@ -31,13 +31,13 @@ In addition to the aforementioned mandatory transformations, the feature names h
 
 Feature name adjustment example:
         
-        * 'tBodyAcc-mean()-X' has been changed to 'tBodyAcc_mean_X'
+* 'tBodyAcc-mean()-X' has been changed to 'tBodyAcc_mean_X'
 * 'tBodyAcc-std()-Z'  has been changed to 'tBodyAcc_std_Z'
 * etc.
 
 The transformations are achieved by the script called [run_analysis.R](https://github.com/zakkimes/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R), which:
         
-        1. Ensures that all non-standard R packages (dplyr, reshape2) are installed
+1. Ensures that all non-standard R packages (dplyr, reshape2) are installed
 2. Defines a number of helper functions to promote code reuse
 3. Downloads the original dataset and verifies its content
 4. Loads activity and label names datasets
