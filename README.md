@@ -24,6 +24,6 @@ Create an R script called run_analysis.R that does the following:
 ### Project Results
 The completed project includes the following:
         
-1. a tidy data set based on the original data set: [tidy_data.txt](https://github.com/zakkimes/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy_data.txt) and [tidy_data.csv](https://github.com/zakkimes/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy_data.csv) (nicely formatted on GitHub)
+1. a tidy data set based on the original data set: [tidy_data.txt](https://github.com/zakkimes/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy_data.txt)
 2. an R script called [run_analysis.R](https://github.com/zakkimes/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R) for performing the analysis 
 3. a code book called [CodeBook.md](https://github.com/zakkimes/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md) that describes variables, data and any transformations or work performed to clean up the data 
